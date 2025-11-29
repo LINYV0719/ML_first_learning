@@ -1,0 +1,20 @@
+true,pred,count,example_file,example_pred_prob
+leaf blight of corn,Corn Gray leaf spot,6,./dataset\TEST\leaf blight of corn\0796.20graylssymt.jpg,0.7569860816001892
+leaf blight of corn,Corn Gray leaf spot,6,./dataset\TEST\leaf blight of corn\07c.jpg,0.6786023378372192
+leaf blight of corn,Corn Gray leaf spot,6,./dataset\TEST\leaf blight of corn\1321189.jpg,0.7566088438034058
+leaf blight of corn,Corn Gray leaf spot,6,./dataset\TEST\leaf blight of corn\2013Corn_GrayLeafSpot_0815_0003.JPG.jpg,0.5391817092895508
+leaf blight of corn,Corn Gray leaf spot,6,./dataset\TEST\leaf blight of corn\corn-disease-update-fig-3-gray-leaf-spot.jpg,0.8527522087097168
+leaf blight of corn,Corn Gray leaf spot,6,./dataset\TEST\leaf blight of corn\corn-gray-leaf-spot-f4.jpg,0.6510215997695923
+tomato leaf bacterial spot,Tomato Septoria leaf spot,5,./dataset\TEST\tomato leaf bacterial spot\%2320+Bacterial+Spot+and+Speck.jpg,0.31720563769340515
+tomato leaf bacterial spot,Tomato Septoria leaf spot,5,./dataset\TEST\tomato leaf bacterial spot\Tom_Bact7.jpg,0.3677682876586914
+tomato leaf bacterial spot,Tomato Septoria leaf spot,5,./dataset\TEST\tomato leaf bacterial spot\Tomato%2BBacterial%2BSpot%2Bon%2BLeaves.jpg,0.4834849536418915
+tomato leaf bacterial spot,Tomato Septoria leaf spot,5,./dataset\TEST\tomato leaf bacterial spot\tomato_V8.jpg,0.43954843282699585
+tomato leaf bacterial spot,Tomato Septoria leaf spot,5,./dataset\TEST\tomato leaf bacterial spot\tomato_bacterial-speck_01_zoom.jpg,0.6404395699501038
+bell pepper leaf spot,tomato leaf bacterial spot,3,./dataset\TEST\bell pepper leaf spot\01.jpg,0.25576701760292053
+bell pepper leaf spot,tomato leaf bacterial spot,3,./dataset\TEST\bell pepper leaf spot\Bacterial-spot-pepper2.jpg,0.3373851776123047
+bell pepper leaf spot,tomato leaf bacterial spot,3,./dataset\TEST\bell pepper leaf spot\pepper_bacterial-spot_03_zoom.jpg,0.31159886717796326
+cherry leaf,apple leaf,3,./dataset\TEST\cherry leaf\five-cherry-tree-green-leaves-white-isolated-background-34493587.jpg,0.43889787793159485
+cherry leaf,apple leaf,3,./dataset\TEST\cherry leaf\prunsero_leaf2.jpg,0.41859516501426697
+cherry leaf,apple leaf,3,./dataset\TEST\cherry leaf\red-cherry-tree-leaf-isolated-crisp-white-background-35742030.jpg,0.3441939353942871
+Apple Scab Leaf,apple rust leaf,2,./dataset\TEST\Apple Scab Leaf\816.jpg,0.2835562825202942
+Apple Scab Leaf,apple rust leaf,2,./dataset\TEST\Apple Scab Leaf\apple-scab-5366820.jpg,0.6529622077941895
